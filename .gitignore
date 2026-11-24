@@ -1,0 +1,5 @@
+# pitch-lab: local judge notes and scratch runs stay out of the repo
+node_modules/
+out/
+.DS_Store
+*.log
